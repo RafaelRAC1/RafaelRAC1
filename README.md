@@ -1,7 +1,7 @@
 # RafaelRAC1's GitHub
 Hey, there!  **WELCOME TO MY GITHUB PROFILE!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/rafael-corr%C3%AAa-a48a56185/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/rafael_correa04?igshid=ZDdkNTZiNTM=)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/rafael-corr%C3%AAa-a48a56185/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/rafael_correa04)  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RafaelRac1&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 ## 🙋🏻‍♂️ ABOUT ME
@@ -13,11 +13,11 @@ Bachelor's in Computer Science
 Expected Graduation Year: 2027  
 
 > **ETEC-SP GEEAD**  
-Technical Degree in Systems Development  
+Technician Degree in Systems Development  
 Graduation Year: 2022  
 
 >**ETEC PROFESSORA LUZIA MARIA MACHADO**  
-Technical Degree in Business Administration  
+Technician Degree in Business Administration  
 Graduation Year: 2022
 
 
