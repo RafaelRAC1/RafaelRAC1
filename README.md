@@ -24,7 +24,8 @@ Graduation Year: 2022
 ## 💻 TECHNOLOGIES
 ### 📍 Markup and Stylesheet Languages  
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-### Programming Languages  
+
+### 📍 Programming Languages  
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 📍 Databases
