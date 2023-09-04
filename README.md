@@ -20,7 +20,6 @@ Graduation Year: 2022
 Technical Degree in Business Administration  
 Graduation Year: 2022
 
---- 
 
 ## 💻 TECHNOLOGIES
 ### Markup and Stylesheet Languages  
@@ -34,7 +33,6 @@ Graduation Year: 2022
 ### Frameworks and Libraries
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Font-Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 
----
 <!--
 **RafaelRAC1/RafaelRAC1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
