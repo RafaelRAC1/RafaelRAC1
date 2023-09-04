@@ -5,7 +5,7 @@ Hey, there!  **WELCOME TO MY GITHUB PROFILE!**
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RafaelRac1&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 ## 🙋🏻‍♂️ ABOUT ME
-I am a 19 years old developer who's goals are to become a full stack deveoper, and develop and publish my own mobile applications. As a brazillian, I love to watch soccer matches and listen to national classics - especially Legião Urbana!  
+I am a 19-year-old developer whose goals are to become a full-stack developer and create and publish my own mobile applications. As a Brazilian, I love to watch soccer matches and listen to national classics - especially Legião Urbana!  
 ### EDUCATION 
 
 >**CENTRO UNIVERSITÁRIO BRAZ CUBAS**  
