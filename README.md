@@ -5,7 +5,7 @@ Hey, there!  **WELCOME TO MY GITHUB PROFILE!**
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RafaelRac1&theme=black&background=ffff&border=#d3d3d3&dates=fff)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRAC1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRAC1&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  
 
 ## 🙋🏻‍♂️ ABOUT ME
 I am a 19-year-old developer whose goals are to become a full-stack developer and create and publish my own mobile applications. As a Brazilian, I love to watch soccer matches and listen to national classics - especially Legião Urbana!  
