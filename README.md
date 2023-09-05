@@ -2,7 +2,10 @@
 Hey, there!  **WELCOME TO MY GITHUB PROFILE!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/rafael-corr%C3%AAa-a48a56185/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/rafael_correa04)  
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RafaelRac1&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRAC1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🙋🏻‍♂️ ABOUT ME
 I am a 19-year-old developer whose goals are to become a full-stack developer and create and publish my own mobile applications. As a Brazilian, I love to watch soccer matches and listen to national classics - especially Legião Urbana!  
@@ -33,18 +36,3 @@ Graduation Year: 2022
 
 ### 📍 Frameworks and Libraries
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Font-Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
-
-<!--
-**RafaelRAC1/RafaelRAC1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
