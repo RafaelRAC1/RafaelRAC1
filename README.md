@@ -3,7 +3,7 @@ Hey, there!  **WELCOME TO MY GITHUB PROFILE!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/rafael-corr%C3%AAa-a48a56185/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/rafael_correa04)  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RafaelRac1&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RafaelRac1&theme=black&background=ffff&border=#d3d3d3&dates=fff)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRAC1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
